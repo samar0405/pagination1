@@ -1,0 +1,26 @@
+.sidebar {
+  width: 100%;
+}
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 16px;
+}
+
+.logo {
+  font-weight: bold;
+}
+
+.menu {
+  z-index: 1300;
+}
+
+.sidebar-icon {
+  min-width: 40px;
+}
+
+.active {
+  background-color: rgba(0, 0, 0, 0.1); /* Adjust the active background color as needed */
+}

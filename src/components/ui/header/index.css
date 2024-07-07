@@ -1,0 +1,24 @@
+/* .header {
+  top: 0;
+   width: 100%;
+  position: fixed;
+  z-index: 1300;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  position: fixed;
+  z-index: 1300;
+} */
+.header {
+  width: 100%;
+  background-color: #3f51b5; /* Change the color as needed */
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  padding: 0 16px; /* Adjust the padding as needed */
+}
